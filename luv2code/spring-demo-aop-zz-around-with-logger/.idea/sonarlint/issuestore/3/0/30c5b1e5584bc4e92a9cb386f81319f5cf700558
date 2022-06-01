@@ -1,0 +1,24 @@
+
+T
+java:S2629"7Use the built-in formatting to construct this argument.(âÕ¦ù8†½Î‚0
+Y
+java:S2629%"7Use the built-in formatting to construct this argument.(á›ß°ùÿÿÿÿ8Ôû½Î‚0
+T
+java:S2629."7Use the built-in formatting to construct this argument.(ßİÏ¸8¯¾Î‚0
+T
+java:S26299"7Use the built-in formatting to construct this argument.(Ã³´“8¯Å¾Î‚0
+T
+java:S2629:"7Use the built-in formatting to construct this argument.(í„‘8¦ì¾Î‚0
+T
+java:S2629B"7Use the built-in formatting to construct this argument.(çı•¸8†•¿Î‚0
+S
+java:S2629D"7Use the built-in formatting to construct this argument.(İğ‘8­Ê¿Î‚0
+S
+java:S2629H"7Use the built-in formatting to construct this argument.(İğ‘8¸é¿Î‚0
+Y
+java:S2629Z"7Use the built-in formatting to construct this argument.(¾¢ğ®ùÿÿÿÿ8ÎÛÀÎ‚0
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8“ú´Î‚0
+f
+java:S1128"IRemove this unused import 'com.luv2code.aopdemo.AroundWithLoggerDemoApp'.(€¼­£8¢Ü«Öƒ0
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8¤Ü«Öƒ0

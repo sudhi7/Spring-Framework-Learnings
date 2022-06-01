@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    <context:property-placeholder location="classpath:sport.properties"/>
+
+    <!-- Define your beans here -->
+
+    <bean id="fortuneService" class="com.java.spingdemo1.HappyFortuneService"></bean>
+    <bean id="randomFortuneService" class="com.java.spingdemo1.RandomFortuneService"></bean>
+    <bean id="trackCoach" class="com.java.spingdemo1.TrackCoach">
+        <constructor-arg ref="fortuneService"/>
+    </bean>
+    <bean id="baseballCoach" class="com.java.spingdemo1.BaseballCoach">
+        <constructor-arg ref="fortuneService"/>
+    </bean>
+    <bean id="cricketCoach" class="com.java.spingdemo1.CricketCoach">
+        <property name="fortuneService" ref="randomFortuneService"/>
+        <property name="emailAddress" value="${foo.email}"/>
+        <property name="team" value="${foo.team}"/>
+    </bean>
+
+    
+</beans>
+
+
+
+
+

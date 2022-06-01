@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ëûà…
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(È§œÁ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(€ñ§…ûÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(èàßµ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(‘î«÷ÿÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(´Ú£§ûÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(’šŞşÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(’šŞşÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(…¢´
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(‚‰úº
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(ËòúØ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ˆ«€½ıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

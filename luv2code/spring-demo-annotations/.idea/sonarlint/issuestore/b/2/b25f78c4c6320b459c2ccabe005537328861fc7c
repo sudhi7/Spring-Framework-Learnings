@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬åşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç‘†¢ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ÀÜ“ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»Šıâ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×“áé
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Çú‘‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…™¢Şşÿÿÿÿ
+ñ
+java:S1598"ÕThis file "AnnotationDemoApp.java" should be located in "com/java/springdemo" directory, not in "/home/saisum/IdeaProjects/spring-demo-annotations/src/main/com.java.springdemo"(Do not use dots in directory names).(æ³¹Âüÿÿÿÿ

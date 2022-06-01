@@ -1,0 +1,19 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+J
+src/main/hibernate.cfg.xml,1/a/1ab062db1cc0803c8dba5b56d1e16bc772894743
+X
+(src/main/com/luv2code/jdbc/TestJdbc.java,f/d/fdafe675a526ddcc86b3ae3e86a161dd2972fcac
+q
+Asrc/main/com/luv2code/hibernate/demo/GetInstructorDetailDemo.java,6/3/634849758efa06408d9f04b15f6ab66ac6757811
+d
+4src/main/com/luv2code/hibernate/demo/CreateDemo.java,8/4/84fa105baa3c05b5c465093791a2581e0e0eee02
+t
+Dsrc/main/com/luv2code/hibernate/demo/DeleteInstructorDetailDemo.java,5/8/58ee12b5aa4a6b1e8b522100de7f65cc9706de3f
+q
+Asrc/main/com/luv2code/hibernate/demo/entity/InstructorDetail.java,9/1/91e1ae33626627456db8b4cf344a9356afb42eb2
+k
+;src/main/com/luv2code/hibernate/demo/entity/Instructor.java,d/7/d7bc00960c3a5027769fb6c3f1cf3777752eb727

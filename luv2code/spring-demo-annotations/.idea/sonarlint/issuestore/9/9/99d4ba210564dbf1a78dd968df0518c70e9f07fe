@@ -1,0 +1,5 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÌŠë48ë–¼ ÿ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢äõûÿÿÿÿ8–àÁ ÿ/
+ê
+java:S1598"ÎThis file "ChessCoach.java" should be located in "com/java/springdemo" directory, not in "/home/saisum/IdeaProjects/spring-demo-annotations/src/main/com.java.springdemo"(Do not use dots in directory names).(æ³¹Âüÿÿÿÿ

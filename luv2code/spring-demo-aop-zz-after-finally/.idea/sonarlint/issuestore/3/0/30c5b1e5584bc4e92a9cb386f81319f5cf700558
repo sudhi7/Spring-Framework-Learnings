@@ -1,0 +1,14 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(€ñ§…ûÿÿÿÿ8…çâ‚0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(èàßµ8¡çâ‚0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(‘î«÷ÿÿÿÿÿ8é™ã‚0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(´Ú£§ûÿÿÿÿ8ë™ã‚0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(’šŞşÿÿÿÿ8î™ã‚0
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(’šŞşÿÿÿÿ8ô™ã‚0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(…¢´8ö™ã‚0
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(‚‰úº8ø™ã‚0
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8ú™ã‚0
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ËòúØ8ü™ã‚0
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ˆ«€½ıÿÿÿÿ8Šïç‚0
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8–Ñå‚0

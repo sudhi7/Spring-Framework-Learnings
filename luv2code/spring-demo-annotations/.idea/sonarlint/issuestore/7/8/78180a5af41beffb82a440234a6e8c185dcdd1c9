@@ -1,0 +1,7 @@
+
+‚
+java:S1128"eRemove this unused import 'org.springframework.context.support.PropertySourcesPlaceholderConfigurer'.(þð²Á8³øÅ¿ÿ/
+~
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "mySwimCoach".(„ëÁ¿þÿÿÿÿ
+ë
+java:S1598"ÏThis file "SportConfig.java" should be located in "com/java/springdemo" directory, not in "/home/saisum/IdeaProjects/spring-demo-annotations/src/main/com.java.springdemo"(Do not use dots in directory names).(æ³¹Âüÿÿÿÿ
